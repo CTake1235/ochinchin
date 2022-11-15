@@ -1,0 +1,4 @@
+# ochinchinであそぼう
+- 宣言時にochinchinの大きさについて決めましょう
+- ochinchinの大きさはsizeofで確認しましょう
+- ochinchin型変数に何かを代入するときは、ohcinchinを気遣いながらやさしく代入しましょう
